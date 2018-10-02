@@ -1,0 +1,9 @@
+.score {
+  background-color: lightblue;
+  padding-left: 40px;
+  font-size: 2rem;
+  color:black;
+  margin-bottom: 10px;
+  font: weight 100;
+  font-family: 'Times New Roman', Times, serif
+}

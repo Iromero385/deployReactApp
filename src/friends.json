@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "SpongeBob",
+    "image": "https://vignette.wikia.nocookie.net/shipping/images/3/36/Naruto_Uzumaki.png/revision/latest/scale-to-width-down/350?cb=20160331152428",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea"
+  },
+  {
+    "id": 2,
+    "name": "Mr. Krabs",
+    "image": "https://vignette.wikia.nocookie.net/onepiece/images/6/6d/Monkey_D._Luffy_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20180808110552",
+    "occupation": "Restaurant Owner",
+    "location": "A Giant Anchor"
+  },
+  {
+    "id": 3,
+    "name": "Squidward",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 4,
+    "name": "Dexter",
+    "image": "https://vignette.wikia.nocookie.net/fairytail/images/c/ce/Natsu%27s_image.png/revision/latest?cb=20160425163236",
+    "occupation": "Boy Genius",
+    "location": "A Secret Laboratory"
+  },
+  {
+    "id": 5,
+    "name": "Courage",
+    "image": "https://www.koreaboo.com/wp-content/uploads/2017/08/Inuyasha.png",
+    "occupation": "A Cowardly Dog",
+    "location": "Nowhere, Kansas"
+  },
+  {
+    "id": 6,
+    "name": "Doug Funnie",
+    "image": "https://vignette.wikia.nocookie.net/cowboybebop/images/0/03/S142.jpg/revision/latest/scale-to-width-down/310?cb=20180314194412",
+    "occupation": "Student",
+    "location": "Bluffington"
+  },
+  {
+    "id": 7,
+    "name": "Bugs Bunny",
+    "image": "https://vignette.wikia.nocookie.net/souleater/images/9/9e/Death_the_Kid_%28Post-Timeskip%29_Profile.png/revision/latest/scale-to-width-down/350?cb=20150812165042",
+    "occupation": "Looney Toon",
+    "location": "A Rabbit Burrow"
+  },
+  {
+    "id": 8,
+    "name": "Johnny Bravo",
+    "image": "http://img1.ak.crunchyroll.com/i/spire4/e186037e7b064acb975b95aa47c176b91359849960_full.png",
+    "occupation": "Ladies Man",
+    "location": "Aron City"
+  },
+  {
+    "id": 9,
+    "name": "Tommy Pickles",
+    "image": "https://figuya.com/uploads/product/profile_picture/8793/profile_Kirito-ordinal-scale-Kartenh%C3%BCllen-vorschau.jpg",
+    "occupation": "Adventurer",
+    "location": "California"
+  },
+  {
+    "id": 10,
+    "name": "Rocko",
+    "image": "https://pm1.narvii.com/5885/97d10a4996ab54441c810de706f19b58bfd5a17c_hq.jpg",
+    "occupation": "Cashier",
+    "location": "O-Town, California"
+  },
+  {
+    "id": 11,
+    "name": "Captain Planet",
+    "image": "https://memestatic.fjcdn.com/large/pictures/bb/1f/bb1f77_6354046.jpg",
+    "occupation": "Superhero",
+    "location": "Earth"
+  },
+  {
+    "id": 12,
+    "name": "Ickis",
+    "image": "https://c-8oqtgrjgwu46x24koikzx2etcpmgtx2eeqo.g00.ranker.com/g00/3_c-8yyy.tcpmgt.eqo_/c-8OQTGRJGWU46x24jvvrux3ax2fx2fkoikz.tcpmgt.eqox2fwugt_pqfg_koix2f321x2f4387975x2fqtkikpcnx2fvgvuwq-ujkoc-rjqvq-w6x3fyx3d872x26sx3d72x26hox3dlrix26hkvx3detqrx26etqrx3dhcegux26k32e.octmx3dkocig_$/$/$/$/$/$",
+    "occupation": "Ahhhh! A Real Monster!",
+    "location": "Under a City Dump"
+  }
+]
