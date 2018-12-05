@@ -14,4 +14,5 @@ Used React to build front end. Created component to hold cards . Utilize state t
 * Create a div that display message if card is double clicked or just clicked once. 
 
 <h2> Examples </h2>
-![Front Image](./src/components/images/front.png)
+
+<img src="./src/components/images/front.png">
