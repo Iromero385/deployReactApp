@@ -1,12 +1,15 @@
 # Anime Clicky Game
 
-<h2> Instruction </h2>
+## Introduction
+This project is created in React. Using components for the image containers. Utilize the state to keep track of shuffle images. 
 
+## Instructions
 This is a memory game. Select an anime character tile and never pic the same one twice. Can you do all 12? 
 
-<h2> Tech used </h2>
-
-Used React to build front end. Created component to hold cards . Utilize state to keep track of clicked cards. 
+## Tech used
+* React
+* CSS
+* JSX
 
 <h2> Future Development </h2>
 
